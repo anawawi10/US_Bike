@@ -1,6 +1,7 @@
 import datetime
 
 import pandas as pd
+# This is the second project in Udacity Data science Programming Nando degree program
 
 CITY_DATA = {'chicago': 'chicago.csv', 'new york': 'new_york_city.csv', 'washington': 'washington.csv'}
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
@@ -9,6 +10,9 @@ DAYS = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday',
         'friday', 'saturday']
 
 N = 60
+
+
+
 
 
 def get_input(msg, input_list):
