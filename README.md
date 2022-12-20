@@ -7,7 +7,7 @@ This project is bieng done on 20 December, 2022
 Explore US Bike share project
 
 ### Description
-Describe what your project is about and what it does
+Explore the US biske share using the data provided by Motivtate and compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
 Include the files used
