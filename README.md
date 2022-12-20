@@ -10,7 +10,10 @@ Explore US Bike share project
 Explore the US biske share using the data provided by Motivtate and compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
-Include the files used
+1-chicago.csv
+2-new_york_city.csv
+3-washington.csv
+4-bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
