@@ -7,8 +7,8 @@ This project is bieng done on 20 December, 2022
 Explore US Bike share project
 
 ### Description
-Explore the US biske share using the data provided by Motivtate and compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
-
+Explore The US BIke share using the data provided by Motivate and compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+link: https://motivateco.com/
 
 ### Files used
 1-chicago.csv
@@ -17,7 +17,7 @@ Explore the US biske share using the data provided by Motivtate and compare the 
 4-bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All credits go to Udacity 
 
 ### About the Project Developer
 Amal Nawawi 22 Years old , Senior computer Engineer student at University of Jeddah Robot hardware and software developer.
